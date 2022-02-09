@@ -24,7 +24,7 @@
     <version.joda-time>1.6</version.joda-time>
     <version.slf4j>1.7.5</version.slf4j>
 <!--     <version.hbase>1.1.0</version.hbase> -->
-    <version.hadoop>2.7.1</version.hadoop>
+    <version.hadoop>2.10.1</version.hadoop>
     <version.hbase>2.0.5</version.hbase>
 <!--     <version.hadoop>2.6.5</version.hadoop> -->
     <version.zookeeper>3.4.5</version.zookeeper>
