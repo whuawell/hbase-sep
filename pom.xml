@@ -27,7 +27,7 @@
     <version.hadoop>2.7.1</version.hadoop>
     <version.hbase>2.0.5</version.hbase>
 <!--     <version.hadoop>2.6.5</version.hadoop> -->
-    <version.zookeeper>3.4.5</version.zookeeper>
+    <version.zookeeper>3.4.14</version.zookeeper>
     <version.jackson>1.9.13</version.jackson>
     <version.httpclient>4.3</version.httpclient>
     <version.kite>0.13.0</version.kite>
